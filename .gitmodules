@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/dvij/dvij.github.io.git
+	branch = master
